@@ -119,4 +119,4 @@ JPEG画像を様々なイラストスタイルに変換するWebアプリケー�
 
 ## 著者
 
-[あなたの名前] - [連絡先情報]
+tomorrow56 - [https://x.com/tomorrow56](https://x.com/tomorrow56)
